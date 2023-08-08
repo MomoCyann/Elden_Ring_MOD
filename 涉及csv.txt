@@ -1,0 +1,13 @@
+BonfireWarpParam
+BuddyParam
+BuddyStoneParam
+CharaInitParam
+EquipParamCustomWeapon
+EquipParamGoods
+EquipParamWeapon
+Magic
+NpcParam
+NpcThinkParam
+ShopLineupParam_Recipe
+SpEffectParam
+WorldMapPointParam
